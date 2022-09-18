@@ -1,0 +1,78 @@
+{
+  "name": "Huluvu424242",
+  "type": "personal",
+  "bio": "Open Source Developer",
+  "avatar": "https://avatars.githubusercontent.com/u/1297475?v=4",
+  "links": [
+    {
+      "name": "Follow me on Bibsonomy",
+      "url": "https://www.bibsonomy.org/user/huluvu424242",
+      "icon": "bibsonomy"
+    },
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/Huluvu424242",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/FunThomasSFnet",
+      "icon": "twitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-schubert-16148640/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Follow me on Last.FM",
+      "url": "https://www.last.fm/user/Huluvu424242/",
+      "icon": "lastfm"
+    },
+    {
+      "name": "Follow me on NPM",
+      "url": "https://www.npmjs.com/~huluvu424242",
+      "icon": "node-js"
+    },
+    {
+      "name": "Follow me on Stackoverflow",
+      "url": "https://stackoverflow.com/users/373498/huluvu424242",
+      "icon": "stackoverflow"
+    },
+    {
+      "name": "Follow me on DEV.to",
+      "url": "https://dev.to/huluvu424242",
+      "icon": "dev.to"
+    },
+    {
+      "name": "Follow me on Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/User:Huluvu424242",
+      "icon": "wikimedia"
+    },
+    {
+      "name": "Follow me on Cheatography.com",
+      "url": "https://cheatography.com/funthomas424242",
+      "icon": "cheatography"
+    },
+    {
+      "name": "Follow me on SlideShare",
+      "url": "https://de.slideshare.net/FunThomas424242",
+      "icon": "slideshare"
+    },
+    {
+      "name": "Follow me on SpeakerDeck",
+      "url": "https://speakerdeck.com/huluvu424242",
+      "icon": "speakerdeck"
+    },
+    {
+      "name": "Follow me on OpenHub (ex Ohloh)",
+      "url": "https://openhub.net/accounts/Huluvu424242",
+      "icon": "openhub"
+    },
+    {
+      "name": "Follow me on Blogspot",
+      "url": "https://huluvu424242.blogspot.com/",
+      "icon": "blogspot"
+    }
+  ]
+}
