@@ -74,5 +74,14 @@
       "url": "https://huluvu424242.blogspot.com/",
       "icon": "blogspot"
     }
+  ],
+  "milestones": [
+    {
+      "title": "Started coding at github",
+      "description": "Start to move my open source projects from sourceforge.net to github.com",
+      "date": "January 2012",
+      "icon": "github",
+      "color": "black"
+    }
   ]
 }
