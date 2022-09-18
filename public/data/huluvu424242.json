@@ -77,7 +77,7 @@
   ],
   "milestones": [
     {
-      "title": "Project jenkinsmonitor released",
+      "title": "jenkinsmonitor released",
       "description": "Created an java based monitor tray of jenkins builds.",
       "url": "https://github.com/Huluvu424242/jenkinsmonitor",
       "date": "August 2020",
@@ -85,7 +85,7 @@
       "color": "green"
     },
     {
-      "title": "Project midi.example released",
+      "title": "midi.example released",
       "description": "Created an example for midi output based on java lib jmusic.",
       "url": "https://github.com/Huluvu424242/midi.example",
       "date": "July 2019",
