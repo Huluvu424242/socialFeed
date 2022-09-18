@@ -77,6 +77,14 @@
   ],
   "milestones": [
     {
+      "title": "Project midi.example finished",
+      "description": "Created an example for midi output based on java lib jmusic.",
+      "url": "https://github.com/Huluvu424242/midi.example",
+      "date": "July 2019",
+      "icon": "open-source",
+      "color": "green"
+    },
+    {
       "title": "Started coding at github",
       "description": "Start to move my open source projects from sourceforge.net to github.com",
       "date": "January 2012",
