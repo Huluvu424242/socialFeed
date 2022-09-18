@@ -93,6 +93,14 @@
       "color": "green"
     },
     {
+      "title": "rezeptbuch released",
+      "description": "Created an open source receipt book based at owned rezept dsl",
+      "url": "https://github.com/Huluvu424242/rezeptbuch",
+      "date": "December 2018",
+      "icon": "open-source",
+      "color": "green"
+    },
+    {
       "title": "Started coding at github",
       "description": "Start to move my open source projects from sourceforge.net to github.com",
       "date": "January 2012",
