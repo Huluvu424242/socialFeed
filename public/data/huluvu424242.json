@@ -101,10 +101,35 @@
       "color": "green"
     },
     {
-      "title": "Started coding at github",
+      "title": "Started at github",
       "description": "Start to move my open source projects from sourceforge.net to github.com",
+      "url": "https://github.com/Huluvu424242",
       "date": "January 2012",
       "icon": "github",
+      "color": "black"
+    },
+    {
+      "title": "sf-mvn-plugins realeased",
+      "description": "Two maven plugins: wagon-http-sourceforge and 1jar-maven-plugin",
+      "url": "https://sourceforge.net/projects/sf-mvn-plugins/",
+      "date": "April 2012",
+      "icon": "open-source",
+      "color": "green"
+    },
+    {
+      "title": "devtool realeased",
+      "description": "Devtool plugins for eclipse.",
+      "url": "https://sourceforge.net/projects/devtool/",
+      "date": "January 2012",
+      "icon": "open-source",
+      "color": "green"
+    },
+    {
+      "title": "Started at sourceforge.net",
+      "description": "Start coding open source projects at sourceforge.net",
+      "url": "https://sourceforge.net/u/tmichel/profile/",
+      "date": "May 2002",
+      "icon": "sourceforge",
       "color": "black"
     },
     {
