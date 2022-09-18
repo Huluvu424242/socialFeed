@@ -98,6 +98,22 @@
       "date": "January 2012",
       "icon": "github",
       "color": "black"
+    },
+    {
+      "title": "Paper 2000",
+      "description": "Formalization and proof of design guidlines within the scope of testing formally specified electronic product catalogues (https://doi.org/10.1016/S0953-5438(99)00012-0)",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0953543899000120",
+      "date": "January 2000",
+      "icon": "book",
+      "color": "blue"
+    },
+    {
+      "title": "Hausarbeit 1987",
+      "description": "Write my homework within FcP 85/1",
+      "url": "https://huluvu424242.github.io/hausarbeit/inhalt.html",
+      "date": "April 1987",
+      "icon": "book",
+      "color": "blue"
     }
   ]
 }
